@@ -1,0 +1,32 @@
+<annotation>
+	<folder></folder>
+	<filename>milo-193-_jpg.rf.67e99c71d40ae163403e0facec194235.jpg</filename>
+	<path>milo-193-_jpg.rf.67e99c71d40ae163403e0facec194235.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Milo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>173</xmin>
+			<xmax>303</xmax>
+			<ymin>190</ymin>
+			<ymax>385</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+		<tags>
+			<tag>Milo</tag>
+		</tags>
+	</metadata>
+</annotation>

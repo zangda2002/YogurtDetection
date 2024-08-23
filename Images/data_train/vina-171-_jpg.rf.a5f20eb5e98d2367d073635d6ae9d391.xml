@@ -1,0 +1,32 @@
+<annotation>
+	<folder></folder>
+	<filename>vina-171-_jpg.rf.a5f20eb5e98d2367d073635d6ae9d391.jpg</filename>
+	<path>vina-171-_jpg.rf.a5f20eb5e98d2367d073635d6ae9d391.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Vina</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>138</xmin>
+			<xmax>399</xmax>
+			<ymin>44</ymin>
+			<ymax>374</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+		<tags>
+			<tag>Vina</tag>
+		</tags>
+	</metadata>
+</annotation>

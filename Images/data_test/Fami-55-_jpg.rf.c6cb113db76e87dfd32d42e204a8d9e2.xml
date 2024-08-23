@@ -1,0 +1,33 @@
+<annotation>
+	<folder></folder>
+	<filename>Fami-55-_jpg.rf.c6cb113db76e87dfd32d42e204a8d9e2.jpg</filename>
+	<path>Fami-55-_jpg.rf.c6cb113db76e87dfd32d42e204a8d9e2.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fami</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>194</xmin>
+			<xmax>456</xmax>
+			<ymin>132</ymin>
+			<ymax>523</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+		<tags>
+			<tag>TH</tag>
+			<tag>Fami</tag>
+		</tags>
+	</metadata>
+</annotation>

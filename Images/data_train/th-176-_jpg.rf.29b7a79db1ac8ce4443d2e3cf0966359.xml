@@ -1,0 +1,32 @@
+<annotation>
+	<folder></folder>
+	<filename>th-176-_jpg.rf.29b7a79db1ac8ce4443d2e3cf0966359.jpg</filename>
+	<path>th-176-_jpg.rf.29b7a79db1ac8ce4443d2e3cf0966359.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>TH</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>118</xmin>
+			<xmax>628</xmax>
+			<ymin>251</ymin>
+			<ymax>394</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+		<tags>
+			<tag>TH</tag>
+		</tags>
+	</metadata>
+</annotation>

@@ -1,0 +1,32 @@
+<annotation>
+	<folder></folder>
+	<filename>th-194-_jpg.rf.38a05afc623c5b8fc6dccccae94adb73.jpg</filename>
+	<path>th-194-_jpg.rf.38a05afc623c5b8fc6dccccae94adb73.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>TH</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>144</xmin>
+			<xmax>522</xmax>
+			<ymin>206</ymin>
+			<ymax>330</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+		<tags>
+			<tag>TH</tag>
+		</tags>
+	</metadata>
+</annotation>
